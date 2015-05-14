@@ -1,0 +1,3 @@
+github "robrix/Box" "1.2.2"
+github "antitypical/Result" "0.4.2"
+github "bromas/ReactiveCocoa" "1f175d9395b071bc71be12bca975b936e3a20534"
